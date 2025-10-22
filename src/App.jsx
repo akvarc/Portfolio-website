@@ -1,8 +1,8 @@
 import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Home from './pages/Home';
-import NotFound from './pages/NotFound';
+import NotFound from './Pages/NotFound';
 import { Toaster } from './Component/ui/toaster';
+import Home from './Pages/Home';
 
 const router = createBrowserRouter([
   {
