@@ -16,7 +16,7 @@ const projects = [
     title: "Project Management",
     description: "Project Management using React ",
     image: "/Projects/Project_2.png",
-    tags: ["React", "TailwindCss"], //, "State Mangement"
+    tags: ["React", "TailwindCss","State"], //, "State Mangement"
     demoUrl: "https://project-management-web-app-navy.vercel.app/",
     githubUrl: "https://github.com/akvarc/Project-Management-Web-App",
   },
