@@ -26,8 +26,8 @@ const projects = [
     description: "Event's Blog Website using React",
     image: "/Projects/Project_3.png",
     tags: ["React", "React-Router", "authentication"], //,"Form Handling","CSS","Dummy Backend"
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://event-website-git-main-amit-vermas-projects-bdd66f1a.vercel.app/",
+    githubUrl: "https://github.com/akvarc/Event-Website/tree/main",
   },
 ];
 
